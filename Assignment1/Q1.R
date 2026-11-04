@@ -1,0 +1,6 @@
+df <- read.csv("C:/Users/Arnab/Documents/Iris.csv")
+head(df)
+print("-----The structure of the dataset------")
+str(df)
+print("-----The Statistics of the dataset-----")
+summary(df)
